@@ -1,4 +1,5 @@
 # Subject-Level Industry Expertise
+<img width="1024" height="1536" alt="ChatGPT Image Jul 14, 2026, 01_03_19 PM" src="https://github.com/user-attachments/assets/20d1e3ea-b5b5-47ea-bd7a-7084c8c8f493" />
 
 This repository is a self-contained Claude Code plugin and marketplace for sector- and industry-level investment research. The repository root is also the plugin root. It exposes 39 industry modules across 11 sectors as searchable MCP tools and resources, plus a routing skill that helps Claude apply the right module during company and security research.
 

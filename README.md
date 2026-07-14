@@ -1,9 +1,29 @@
-# Subject-Level Industry Expertise
-<img width="460" height="690" alt="ChatGPT Image Jul 14, 2026, 01_03_19 PM" src="https://github.com/user-attachments/assets/20d1e3ea-b5b5-47ea-bd7a-7084c8c8f493" />
 
-This repository is a self-contained Claude Code plugin and marketplace for sector- and industry-level investment research. The repository root is also the plugin root. It exposes 39 industry modules across 11 sectors as searchable MCP tools and resources, plus a routing skill that helps Claude apply the right module during company and security research.
+<div style="display: flex; align-items: flex-start; gap: 28px;">
+  <img
+    width="460"
+    height="690"
+    alt="Algorithmic industry-research expert"
+    src="https://github.com/user-attachments/assets/20d1e3ea-b5b5-47ea-bd7a-7084c8c8f493"
+    style="flex: 0 0 auto; max-width: 40%; height: auto;"
+  />
 
-The server has no runtime npm dependencies. It reads the Markdown modules shipped with the installed plugin and communicates with Claude Code over stdio.
+  <div style="flex: 1;">
+    <p>
+      This repository is a self-contained Claude Code plugin and marketplace
+      for sector- and industry-level investment research. The repository root
+      is also the plugin root. It exposes 39 industry modules across 11 sectors
+      as searchable MCP tools and resources, plus a routing skill that helps
+      Claude apply the right module during company and security research.
+    </p>
+
+    <p>
+      The server has no runtime npm dependencies. It reads the Markdown modules
+      shipped with the installed plugin and communicates with Claude Code over
+      stdio.
+    </p>
+  </div>
+</div>
 
 ## Project structure
 

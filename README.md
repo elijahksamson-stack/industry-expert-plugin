@@ -1,8 +1,6 @@
 
 <div style="display: flex; align-items: flex-start; gap: 28px;">
   <img
-    width="460"
-    height="690"
     alt="Algorithmic industry-research expert"
     src="https://github.com/user-attachments/assets/20d1e3ea-b5b5-47ea-bd7a-7084c8c8f493"
     style="flex: 0 0 auto; max-width: 40%; height: auto;"

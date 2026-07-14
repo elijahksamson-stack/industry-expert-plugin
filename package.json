@@ -1,0 +1,34 @@
+{
+  "name": "subject-level-expertise-mcp",
+  "version": "1.0.0",
+  "description": "MCP server and Claude Code plugin for sector- and industry-level investment research expertise.",
+  "type": "module",
+  "main": "server/index.js",
+  "bin": {
+    "subject-level-expertise-mcp": "server/index.js"
+  },
+  "files": [
+    ".claude-plugin/",
+    ".mcp.json",
+    "skills/",
+    "server/",
+    "README.md"
+  ],
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test server/index.test.js",
+    "validate:plugin": "claude plugin validate .",
+    "check": "npm run test && npm run validate:plugin"
+  },
+  "keywords": [
+    "mcp",
+    "claude-code",
+    "investment-research",
+    "industry-research",
+    "public-equities"
+  ],
+  "author": "Eli Samson",
+  "engines": {
+    "node": ">=18"
+  }
+}

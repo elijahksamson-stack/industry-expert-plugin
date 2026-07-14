@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "subject-level-expertise",
+  "version": "1.0.0",
+  "description": "Sector- and industry-level expertise for investment research.",
+  "owner": {
+    "name": "Eli Samson"
+  },
+  "plugins": [
+    {
+      "name": "industry-expertise",
+      "displayName": "Subject-Level Industry Expertise",
+      "source": "./",
+      "description": "Grounds security research in searchable, end-to-end sector and industry expertise.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Eli Samson"
+      },
+      "category": "research",
+      "tags": [
+        "investment-research",
+        "industry-research",
+        "public-equities",
+        "mcp"
+      ]
+    }
+  ]
+}

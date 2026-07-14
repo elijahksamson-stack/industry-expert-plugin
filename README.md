@@ -15,11 +15,6 @@
       as searchable MCP tools and resources, plus a routing skill that helps
       Claude apply the right module during company and security research.
     </p>
-
-    
-      The server has no runtime npm dependencies. It reads the Markdown modules
-      shipped with the installed plugin and communicates with Claude Code over
-      stdio.
     
   </div>
 </div>

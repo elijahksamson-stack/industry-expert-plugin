@@ -17,7 +17,7 @@
       Claude apply the right module during company and security research.
     </p>
 
-    <p>
+  <p>
       The server has no runtime npm dependencies. It reads the Markdown modules
       shipped with the installed plugin and communicates with Claude Code over
       stdio.

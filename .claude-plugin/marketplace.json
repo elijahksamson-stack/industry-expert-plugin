@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "subject-level-expertise",
   "version": "1.0.0",
-  "description": "Sector- and industry-level expertise for investment research.",
+  "description": "Industry-intelligence plugin spanning 11 sectors and more than 100 industries.",
   "owner": {
     "name": "Eli Samson"
   },

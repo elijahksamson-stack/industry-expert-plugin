@@ -2,7 +2,7 @@
   "name": "industry-expertise",
   "displayName": "Subject-Level Industry Expertise",
   "version": "1.0.0",
-  "description": "Search and retrieve sector- and industry-level expertise for investment research.",
+  "description": "Industry-intelligence plugin spanning 11 sectors and more than 100 industries.",
   "author": {
     "name": "Eli Samson"
   },
